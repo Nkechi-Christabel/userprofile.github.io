@@ -101,7 +101,7 @@ footer {
   background: rgba(33, 60, 220, 0.1);
   margin: auto;
   overflow: hidden;
-  padding: 15px;
+  padding: 5px;
   position:relative;
   top: 400px;
 }
@@ -201,7 +201,7 @@ margin: 0 0 0 2rem;
 
 .img-container, .img-container__two, .heading {
   margin: auto;
-  width: 50%;
+  width: 70%;
   
 }
 
